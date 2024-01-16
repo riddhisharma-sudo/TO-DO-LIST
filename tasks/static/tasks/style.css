@@ -1,0 +1,46 @@
+/* Apply styles to the body */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 20px;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+/* Style the heading */
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+/* Style the unordered list */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Style list items */
+li {
+    background-color: #fff;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the link */
+a {
+    display: block;
+    padding: 10px;
+    margin-top: 10px;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background-color: #007bff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Hover effect for the link */
+a:hover {
+    background-color: #0056b3;
+}
